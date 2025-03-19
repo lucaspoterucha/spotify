@@ -11,13 +11,14 @@ Este projeto foi desenvolvido como um desafio de Front-End para aprimorar habili
 ## 🖥️ Demonstração da Aplicação
 ![Capturar](img/spotify.jpg)
 
+- 🔗 **Acesse o projeto online:** [https://spotify-gamma-dun.vercel.app/](https://spotify-gamma-dun.vercel.app/)  
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5 & CSS3:** Estruturação e estilização da interface.
 - **JavaScript:** Adição de interatividade na página.
 - **Vercel:** Implantação da aplicação para fácil acesso online.
 
-- 🔗 **Acesse o projeto online:** [https://spotify-gamma-dun.vercel.app/](https://spotify-gamma-dun.vercel.app/)  
 
 ## 📚 Sobre o Projeto
 
