@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como um desafio de Front-End para aprimorar habili
 - **Modo Escuro:** Mantendo a identidade visual do Spotify.
 
 ## 🖥️ Demonstração da Aplicação
-![Capturar](img/spotify)
+![Capturar](img/spotify.jpg)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como um desafio de Front-End para aprimorar habili
 - **JavaScript:** Adição de interatividade na página.
 - **Vercel:** Implantação da aplicação para fácil acesso online.
 
-- 🔗 **Acesse o projeto online:** [https://loginpage-jf93.vercel.app/](https://loginpage-jf93.vercel.app/)  
+- 🔗 **Acesse o projeto online:** [https://spotify-gamma-dun.vercel.app/](https://spotify-gamma-dun.vercel.app/)  
 
 ## 📚 Sobre o Projeto
 
